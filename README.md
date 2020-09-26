@@ -1,6 +1,7 @@
 # bounce_bottom_nav_bar
 
 A new Flutter project.
+Un ejemplo practico y desde cero de un BottomNavBar con animacion
 
 ## Getting Started
 
